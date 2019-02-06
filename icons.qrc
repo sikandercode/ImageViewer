@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/open-24.png</file>
+        <file>icons/elatesoft.png</file>
+        <file>icons/zoom-in-24.png</file>
+        <file>icons/zoom-out-24.png</file>
+        <file>icons/zoom-to-extents-24.png</file>
+    </qresource>
+</RCC>
